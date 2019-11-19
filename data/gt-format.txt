@@ -1,0 +1,6 @@
+TRACK_NO, FRAME_NO, RECT_X, RECT_Y, RECT_W, RECT_H, X, Y, Z
+# X = 1, Y = 1, Z = 1 if not used
+# At times, I see Z value looks like confidence, but I guess it is 3D information
+
+
+NOTE: In other implementation of MOT accuracy evaluation, I see XX, X, Y, Z where XX may be the confidence and X, Y, Z the 3D information

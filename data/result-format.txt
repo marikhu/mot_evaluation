@@ -1,0 +1,3 @@
+FRAME_NO, TRACK_NO, RECT_X, RECT_Y, RECT_W, RECT_H, XX, X, Y, Z
+# XX  = -1 if not used
+# X = -1, Y = -1, Z = -1 if not used
