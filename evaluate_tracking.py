@@ -92,7 +92,7 @@ def preprocessingDB(trackDB, gtDB, distractor_ids, iou_thres, minvis):
     return trackDB, gtDB
 
 
-def evaluate_sequence(trackDB, gtDB, distractor_ids, iou_thres=0.5, minvis=0):
+def evaluate_sequence(trackDB, gtDB, distractor_ids, iou_thres=0.05, minvis=0):
     """
     Evaluate single sequence
     trackDB: tracking result data structure
